@@ -1,0 +1,5 @@
+conda create -n NeuralHandsOn python=3.6
+pip install tensorflow==2.4
+pip install opencv-python
+pip install matplotlib
+pip install scipy
